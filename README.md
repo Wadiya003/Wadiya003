@@ -1,4 +1,4 @@
-# Wadiya-Ali
+
 <h1 align="center">Hi 👋, I'm Wadiya Ali</h1>
 <h3 align="center">A passionate Web-developer and Coder.</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
